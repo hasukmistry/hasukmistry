@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Welcome to Hasmukh's GitHub Profile!</h1>
   
-  <p>Greetings and welcome! 🌟 I am Hasmukh Mistry, a Software VoraciousEngineer based in the heart of Gujarat, India. I'm passionate about bringing creative concepts and innovative ideas to life through practical software solutions. With a firm belief in continuous learning and growth, I take great pleasure in resolving bugs, creating new features, conducting detailed code reviews, participating in collaborative pair programming, and providing guidance as a mentor. Thank you for taking the time to explore my GitHub profile; I'm excited to share my journey of perpetual refinement and growth with you.</p>
+  <p>Greetings and welcome! 🌟 I am Hasmukh Mistry, a Software Artist/Engineer based in the heart of Gujarat, India. I'm passionate about bringing creative concepts and innovative ideas to life through practical software solutions. With a firm belief in continuous learning and growth, I take great pleasure in resolving bugs, creating new features, conducting detailed code reviews, participating in collaborative pair programming, and providing guidance as a mentor. Thank you for taking the time to explore my GitHub profile; I'm excited to share my journey of perpetual refinement and growth with you.</p>
   
   <a href="https://www.linkedin.com/in/hasmukh-k-mistry/">LinkedIn</a> •
   <a href="https://hasmukhmistry137.medium.com/">Medium</a> •
