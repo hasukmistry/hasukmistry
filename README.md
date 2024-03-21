@@ -12,6 +12,8 @@
 
 Here are some of my latest articles on Medium:
 
+- [Git Interactive Staging — A simple way to logically separate commits](https://hasmukhmistry137.medium.com/git-interactive-staging-a-simple-way-to-logically-separate-commits-f2a9418253ce)
+
 - [Apple Shortcuts – A simple automation to get currency rate](https://medium.com/@hasmukhmistry137/apple-shortcuts-a-simple-automation-to-get-currency-rate-d24ae8500d7b)
 
 ## 🙌 References
