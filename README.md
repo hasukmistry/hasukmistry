@@ -31,9 +31,3 @@ Here's what some of the people I've worked with have to say:
 I'm always open to engaging discussions and exciting collaboration opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/hasmukh-k-mistry/) or follow me on [Twitter](https://twitter.com/hasukmistry).
 
 Thank you for visiting my profile! 🎉
-
-##
-
-<p align="center">
-  <em>This README has been crafted with the assistance of ChatGPT's insight.</em>
-</p>
